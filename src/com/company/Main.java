@@ -40,7 +40,7 @@ public class Main {
         System.out.println("==========================================================");
         System.out.println("TEXT DECRYPTION");
         System.out.println("==========================================================");
-        System.out.print("Enter the Plain Text: ");
+        System.out.print("Enter the Cipher Text: ");
         String decryptedText = scanner.next();
         System.out.print("Enter the key: ");
         int key1 = scanner.nextInt();
